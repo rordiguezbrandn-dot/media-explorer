@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Paisaje",
+    "description": "Imagen de prueba",
+    "type": "image",
+    "thumbnail": "https://picsum.photos/400/300",
+    "mediaUrl": "https://picsum.photos/1200/800"
+  },
+  {
+    "id": 2,
+    "title": "Audio Demo",
+    "description": "Audio de prueba",
+    "type": "audio",
+    "thumbnail": "https://picsum.photos/401/300",
+    "mediaUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+  },
+  {
+    "id": 3,
+    "title": "Video Demo",
+    "description": "Video de prueba",
+    "type": "video",
+    "thumbnail": "https://picsum.photos/402/300",
+    "mediaUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+  }
+]
