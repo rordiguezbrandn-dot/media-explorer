@@ -1,26 +1,26 @@
 [
   {
     "id": 1,
-    "title": "Paisaje",
-    "description": "Imagen de prueba",
+    "title": "Rock Image",
+    "description": "Imagen Rock",
     "type": "image",
-    "thumbnail": "https://picsum.photos/400/300",
-    "mediaUrl": "https://picsum.photos/1200/800"
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Red_Rocks_Amphitheatre.jpg",
+    "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Red_Rocks_Amphitheatre.jpg"
   },
   {
     "id": 2,
-    "title": "Audio Demo",
-    "description": "Audio de prueba",
+    "title": "Rock Audio",
+    "description": "Audio Rock",
     "type": "audio",
-    "thumbnail": "https://picsum.photos/401/300",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/0/02/Electric_guitar.jpg",
     "mediaUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
   },
   {
     "id": 3,
-    "title": "Video Demo",
-    "description": "Video de prueba",
+    "title": "Rock Video",
+    "description": "Video Demo",
     "type": "video",
-    "thumbnail": "https://picsum.photos/402/300",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/8/84/Concert.jpg",
     "mediaUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
   }
 ]
